@@ -1,13 +1,7 @@
-
-
-
-
-
-html{
+html,
+body {
     background-color: bisque;
+    padding: 0;
+    margin: 0;
+    /*more code*/
 }
-
-body{
-    background-color:bisque;
-}
-
